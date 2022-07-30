@@ -1,12 +1,5 @@
 TITLE Project 6 - String Primitives and Macros     (Proj6_wheatoaa.asm)
 
-; Author: Aaron Wheaton
-; Last Modified: 6/5/2022
-; OSU email address: wheatoaa@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: Project 6                Due Date: 6/6/2022
-; Description: This program implements and tests macros for string processing.
-
 INCLUDE Irvine32.inc
 ; ----------------------------
 ; Name: mDisplayString
